@@ -57,6 +57,11 @@ This mirrors a real enterprise breach — not a direct hop.
 | Mimikatz | Credential extraction |
 | Proxychains | Network pivoting |
 
+### Configuration Guide
+![AD Multi-Forest Lab Configuration Guide](screenshots/02-configuration-guide.png)
+
+📄 [Download Configuration Guide](config/AD-Multi-Forest-Configuration-Guide.pdf)
+
 ## Screenshots
 
 ### Lab Overview
